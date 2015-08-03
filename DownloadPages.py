@@ -7,3 +7,4 @@ import scrapy
 class DownloadPages(object):
     """dxopage downloads"""
     def __init__(self):
+
